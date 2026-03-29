@@ -1,0 +1,1 @@
+Developed an end-to-end computer vision system for real-time rice disease detection using deep learning object detection models. The solution was optimized for on-device mobile inference (TFLite) and integrated with geospatial mapping to deliver actionable insights for precision agriculture under real-world field conditions.
